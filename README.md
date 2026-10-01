@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🚀 Hi there, I'm Mustafa Emre Kabakcıoğlu! 
 
-<!--
-**emre75696/emre75696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-blue?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Language-Java%20%26%20Python-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Computer%20Programming%20Student-green?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I am a passionate **Computer Programming student** at **Kastamonu University** with a strong focus on mobile app development and software engineering. I love solving problems, building cross-platform applications, and continuously learning new technologies.
+
+- 🎓 **Education:** Associate Degree in Computer Programming @ Kastamonu University
+- 📱 **Current Focus:** Mobile Application Development (Java & Flutter)
+- 💻 **Software Engineering:** Python & C# Backend / Logic Development
+- 🛠 **Hands-on Experience:** Computer Lab Hardware Maintenance, System Configuration & Network Setup
+- 🎯 **Future Goal:** Becoming a Full-Stack Mobile Developer
+
+---
+
+### 🧰 Tech Stack & Tools
+
+**Languages & Frameworks:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**IDE & Development Tools:**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=emre75696&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stat card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emre75696&layout=compact&theme=tokyonight" height="150" alt="languages card" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- 📧 **Email:** emre75696@gmail.com
+- 📍 **Location:** Kastamonu, Turkey
+- 💼 **Open to:** Internship & Junior Developer Opportunities
