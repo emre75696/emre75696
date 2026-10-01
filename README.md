@@ -41,6 +41,36 @@ I am a passionate **Computer Programming student** at **Kastamonu University** w
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=emre75696&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stat card" />
+
+
+𝗧Ü𝗥𝗞Ç𝗘
+
+🚀 Merhaba, ben Mustafa Emre Kabakcıoğlu!
+👨‍💻 Hakkımda
+Kastamonu Üniversitesi'nde, mobil uygulama geliştirme ve yazılım mühendisliği odaklı çalışan tutkulu bir Bilgisayar Programcılığı öğrencisiyim. Problem çözmeyi, çoklu platform (cross-platform) uygulamalar geliştirmeyi ve sürekli yeni teknolojiler öğrenmeyi seviyorum.
+
+🎓 Eğitim: Bilgisayar Programcılığı Ön Lisans Programı @ Kastamonu Üniversitesi
+
+📱 Mevcut Odak Noktam: Mobil Uygulama Geliştirme (Java & Flutter)
+
+💻 Yazılım Mühendisliği: Python & C# Arka Plan (Backend) / Mantık Geliştirme
+
+🛠 Pratik Deneyim: Bilgisayar Laboratuvarı Donanım Bakımı, Sistem Konfigürasyonu & Ağ Kurulumu
+
+🎯 Gelecek Hedefim: Full-Stack Mobil Geliştirici Olmak
+
+🧰 Teknolojiler & Araçlar
+Diller & Framework'ler:
+
+Geliştirme Ortamları (IDE) & Araçlar:
+
+📊 GitHub İstatistikleri
+📫 Benimle İletişime Geçin
+📧 E-posta: emre75696@gmail.com
+
+📍 Konum: Kastamonu, Türkiye
+
+💼 Açık Olduğu Fırsatlar: Staj & Junior Geliştirici Pozisyonları
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emre75696&layout=compact&theme=tokyonight" height="150" alt="languages card" />
 </p>
 
