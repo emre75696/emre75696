@@ -71,7 +71,7 @@ Geliştirme Ortamları (IDE) & Araçlar:
 📍 Konum: Kastamonu, Türkiye
 
 💼 Açık Olduğu Fırsatlar: Staj & Junior Geliştirici Pozisyonları
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emre75696&layout=compact&theme=tokyonight" height="150" alt="languages card" />
+
 </p>
 
 ---
