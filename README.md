@@ -43,6 +43,11 @@ I am a passionate **Computer Programming student** at **Kastamonu University** w
   <img src="https://github-readme-stats.vercel.app/api?username=emre75696&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stat card" />
 
 
+### 📫 Connect with Me
+- 📧 **Email:** emre75696@gmail.com
+- 📍 **Location:** Kastamonu, Turkey
+- 💼 **Open to:** Internship & Junior Developer Opportunities
+
 𝗧Ü𝗥𝗞Ç𝗘
 
 🚀 Merhaba, ben Mustafa Emre Kabakcıoğlu!
@@ -75,8 +80,3 @@ Geliştirme Ortamları (IDE) & Araçlar:
 </p>
 
 ---
-
-### 📫 Connect with Me
-- 📧 **Email:** emre75696@gmail.com
-- 📍 **Location:** Kastamonu, Turkey
-- 💼 **Open to:** Internship & Junior Developer Opportunities
